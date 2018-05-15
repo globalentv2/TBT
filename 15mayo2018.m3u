@@ -2598,3 +2598,390 @@ http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios del mundo", FM O Dia | Brasil
 http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
+
+#EXTINF:-1, group-title="OPCION-1", >>> OPCION 1 <<<<
+#
+
+#EXTINF:-1,A&E
+https://live97.elrobacanales.com/budtv/A_E_IZZI_111/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E2o6QpF.png" group-title="Entretenimiento",TDN HD
+https://live97.elrobacanales.com/budtv/Eventos_BudTv_TDN_StarTv_150/playlist.m3u8
+
+#EXTINF:-1,UFC
+https://live97.elrobacanales.com/budtv/ufc_total_play_100/playlist.m3u8
+
+#EXTINF:0,TELEMUNDO EAST.
+http://144.217.64.126:8080/live/coke123/coke123/31151.m3u8
+
+#EXTINF:-1,MOVISTAR PARTIDAZO
+https://hls.younow.com/hlsarchives/live/26/ea/179962151/playlist.m3u8
+
+#EXTINF:-1,TELEMUNDO
+https://ssh101.com/m3u8/dyn/rectt55/index.m3u8
+
+#EXTINF:0,B31N SP0RTS Ñ FULL HD
+http://fullpremiumvip.com:8000/live/test10/test10/7453.m3u8
+
+#EXTINF:0,HOLA TV
+http://144.217.64.126:8080/live/coke123/coke123/31860.m3u8
+
+#EXTINF:0,NAT GEOMUNDO
+http://144.217.64.126:8080/live/coke123/coke123/31859.m3u8
+
+#EXTINF:0,VIENDO MOVIES
+http://144.217.64.126:8080/live/coke123/coke123/35230.m3u8
+
+#EXTINF:0,HBO ESP
+http://144.217.64.126:8080/live/coke123/coke123/35228.m3u8
+
+#EXTINF:0,WWE HD
+http://144.217.64.126:8080/live/coke123/coke123/20913.m3u8
+
+#EXTINF:0,BR | Paramount
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3190.m3u8
+
+#EXTINF:0,BR | HBO
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3156.m3u8
+
+#EXTINF:0,BR | HBO 2
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3155.m3u8
+
+#EXTINF:0,BR | HBO Family
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3154.m3u8
+
+#EXTINF:0,BR | HBO Plus
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3153.m3u8
+
+#EXTINF:0,BR | HBO Signature
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3197.m3u8
+
+#EXTINF:0,BR | History
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3152.m3u8
+
+#EXTINF:0,BR | Max
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3195.m3u8
+
+#EXTINF:0,BR | Max Prime
+http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3194.m3u8
+
+#EXTINF:0,CANAL DE LAS ESTRELLAS
+http://144.217.64.126:8080/live/coke123/coke123/35226.m3u8
+
+#EXTINF:0,FOX LIFE
+http://144.217.64.126:8080/live/coke123/coke123/46957.m3u8
+
+#EXTINF:0,TV ESPANA
+http://144.217.64.126:8080/live/coke123/coke123/46953.m3u8
+
+#EXTINF:0,LAT | UNIVISION
+http://144.217.64.126:8080/live/coke123/coke123/32306.m3u8
+
+#EXTINF:0,LAT | TELEMUNDO INTERNACIONAL
+http://144.217.64.126:8080/live/coke123/coke123/32303.m3u8
+
+#EXTINF:0,Food Network FULL HD
+http://fullpremiumvip.com:8000/live/test10/test10/4180.m3u8
+
+#EXTINF:-1, Univision deportes
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500.m3u8
+
+#EXTINF:-1,ES1: Canal  SeriES1
+http://swar.fannan.se:8000/live/turkish/turkish/11725.ts.m3u8
+
+#EXTINF:-1,ES1: Cuatro HD
+http://swar.fannan.se:8000/live/turkish/turkish/11709.ts.m3u8
+
+#EXTINF:-1,ES1: De Casa
+http://swar.fannan.se:8000/live/turkish/turkish/11708.ts.m3u8
+
+#EXTINF:-1,ES1: Disney Junior
+http://swar.fannan.se:8000/live/turkish/turkish/11704.ts.m3u8
+
+#EXTINF:-1,ES1: DW
+http://swar.fannan.se:8000/live/turkish/turkish/11699.ts
+
+#EXTINF:-1,ES1: Energy
+http://swar.fannan.se:8000/live/turkish/turkish/11696.ts
+
+#EXTINF:-1,ES1: Fox HD
+http://swar.fannan.se:8000/live/turkish/turkish/11694.ts.m3u8
+
+#EXTINF:-1,ES1: Gol TV
+http://swar.fannan.se:8000/live/turkish/turkish/11692.ts.m3u8
+
+#EXTINF:-1,ES1: Hollywood HD
+http://swar.fannan.se:8000/live/turkish/turkish/11690.ts.m3u8
+
+#EXTINF:-1,ES1: Movistar Moto GP
+http://swar.fannan.se:8000/live/turkish/turkish/11671.ts.m3u8
+
+#EXTINF:-1,ES1: National Geographic Wild
+http://swar.fannan.se:8000/live/turkish/turkish/11669.ts.m3u8
+
+#EXTINF:-1,ES1: TCM
+http://swar.fannan.se:8000/live/turkish/turkish/11653.ts.m3u8
+
+#EXTINF:-1,ES1: Telecinco
+http://swar.fannan.se:8000/live/turkish/turkish/11652.ts.m3u8
+
+#EXTINF:-1,ES1: Telemundo
+http://swar.fannan.se:8000/live/turkish/turkish/11650.ts.m3u8
+
+#EXTINF:-1,ES1: Ten
+http://swar.fannan.se:8000/live/turkish/turkish/11647.ts.m3u8
+
+#EXTINF:-1,MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1,SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/01.m3u8
+
+#EXTINF:-1,SONY TEN1 HD
+http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
+
+#EXTINF:-1,SONY TEN3 SD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
+
+#EXTINF:-1,SONY ESPN
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/01.m3u8
+
+#EXTINF:-1,SONY TEN1 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
+
+#EXTINF:-1,SONY TEN2 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+
+#EXTINF:-1,SONY TEN2 HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1,SONY TEN3 HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
+
+#EXTINF:-1,NeoSports
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
+
+#EXTINF:-1,DD Sports
+http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/01.m3u8
+
+#EXTINF:-1,DSports HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+
+#EXTINF:-1,DSports L1
+http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/06.m3u8
+
+#EXTINF:-1,DSports L2
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/06.m3u8
+
+#EXTINF:-1,Mundo auto
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="CHILE", FM Hot | HD
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
+
+#EXTINF:0,UNIVISION EAST
+http://144.217.64.126:8080/live/coke123/coke123/31155.m3u8
+
+#EXTINF:0,UNIVISION WEST
+http://144.217.64.126:8080/live/coke123/coke123/31154.m3u8
+
+#EXTINF:0,GALAVISION.
+http://144.217.64.126:8080/live/coke123/coke123/31153.m3u8
+
+#EXTINF:0,MEGA TV
+http://144.217.64.126:8080/live/coke123/coke123/31870.m3u8
+
+#EXTINF:0,UNIMAS
+http://144.217.64.126:8080/live/coke123/coke123/31150.m3u8
+
+#EXTINF:0,CINELATINO
+http://144.217.64.126:8080/live/coke123/coke123/31863.m3u8
+
+#EXTINF:0,NBC UNIVERSO.
+http://144.217.64.126:8080/live/coke123/coke123/31149.m3u8
+
+#EXTINF:0,DISCOVERY ESP
+http://144.217.64.126:8080/live/coke123/coke123/31865.m3u8
+
+#EXTINF:0,CNN ESPANOL
+http://144.217.64.126:8080/live/coke123/coke123/31864.m3u8
+
+#EXTINF:0,PASIONES
+http://144.217.64.126:8080/live/coke123/coke123/35232.m3u8
+
+#EXTINF:0,CENTRO AMERICA TV
+http://144.217.64.126:8080/live/coke123/coke123/31862.m3u8
+
+#EXTINF:0,CN SONY
+http://144.217.64.126:8080/live/coke123/coke123/35231.m3u8
+
+#EXTINF:0,ARG | TELEFE..
+http://144.217.64.126:8080/live/coke123/coke123/35348.m3u8
+
+#EXTINF:0,TYC SPORTS
+http://144.217.64.126:8080/live/coke123/coke123/35221.m3u8
+
+#EXTINF:0,NTN 24
+http://144.217.64.126:8080/live/coke123/coke123/35349.m3u8
+
+#EXTINF:0,CHI | TV CHILE
+http://144.217.64.126:8080/live/coke123/coke123/35350.m3u8
+
+#EXTINF:0,VENEVISION
+http://144.217.64.126:8080/live/coke123/coke123/46960.m3u8
+
+#EXTINF:0,GOL
+http://144.217.64.126:8080/live/coke123/coke123/32295.m3u8
+
+#EXTINF:0,LAT | TELECINCO
+http://144.217.64.126:8080/live/coke123/coke123/32296.m3u8
+
+#EXTINF:0,LAT | TELENOVELAS
+http://144.217.64.126:8080/live/coke123/coke123/32299.m3u8
+
+#EXTINF:0,FUTBOL ECUATORIANO 2
+http://144.217.64.126:8080/live/coke123/coke123/44339.m3u8
+
+#EXTINF:0,ECU | ECUAVISA.. INT
+http://144.217.64.126:8080/live/coke123/coke123/35347.m3u8
+
+#EXTINF:0,ECU | RTS
+http://144.217.64.126:8080/live/coke123/coke123/32286.m3u8
+
+#EXTINF:0,EUROSPORT 2 HD
+http://144.217.64.126:8080/live/coke123/coke123/27826.m3u8
+
+#EXTINF:0,EUROSPORT 1 HD
+http://144.217.64.126:8080/live/coke123/coke123/21727.m3u8
+
+#EXTINF:0,NFL NETWORK .
+http://144.217.64.126:8080/live/coke123/coke123/27792.m3u8
+
+#EXTINF:0,SKY SPORTS CRICKET
+http://144.217.64.126:8080/live/coke123/coke123/21742.m3u8
+
+#EXTINF:0,SKY SPORTS ACTION
+http://144.217.64.126:8080/live/coke123/coke123/21741.m3u8
+
+#EXTINF:0,SKY SPORT NEWS
+http://144.217.64.126:8080/live/coke123/coke123/21732.m3u8
+
+#EXTINF:0,SKY SPORTS NEWS HD
+http://144.217.64.126:8080/live/coke123/coke123/21737.m3u8
+
+#EXTINF:0,SKY SPORT NEWS.
+http://144.217.64.126:8080/live/coke123/coke123/30075.m3u8
+
+#EXTINF:0,BT SPORTS 3 HD
+http://144.217.64.126:8080/live/coke123/coke123/21734.m3u8
+
+#EXTINF:0,BT SPORT ESPN
+http://144.217.64.126:8080/live/coke123/coke123/21731.m3u8
+
+#EXTINF:0,BT SPORT EXTRA
+http://144.217.64.126:8080/live/coke123/coke123/21730.m3u8
+
+#EXTINF:0,SMURFS 24/7
+http://144.217.64.126:8080/live/coke123/coke123/53595.m3u8
+
+#EXTINF:0,HON | AZTECA HONDURAS
+http://144.217.64.126:8080/live/coke123/coke123/53625.m3u8
+
+#EXTINF:0,BANDAMAX HD LATINO
+http://144.217.64.126:8080/live/coke123/coke123/53633.m3u8
+
+#EXTINF:0,ARG |  C5N
+http://144.217.64.126:8080/live/coke123/coke123/53624.m3u8
+
+#EXTINF:0,COL | CARACOL HD
+http://144.217.64.126:8080/live/coke123/coke123/53620.m3u8
+
+#EXTINF:0,CNT SPORTS PPV 2
+http://144.217.64.126:8080/live/coke123/coke123/53622.m3u8
+
+#EXTINF:0,CR | TELETICA  COSTA RICA
+http://144.217.64.126:8080/live/coke123/coke123/53603.m3u8
+
+#EXTINF:0,F1 FORMULA 1
+http://144.217.64.126:8080/live/coke123/coke123/53616.m3u8
+
+#EXTINF:0,GOL TV HD
+http://144.217.64.126:8080/live/coke123/coke123/53627.m3u8
+
+#EXTINF:0,GOL TV PERU
+http://144.217.64.126:8080/live/coke123/coke123/53619.m3u8
+
+#EXTINF:0,HTV MUSICA HD LATINO
+http://144.217.64.126:8080/live/coke123/coke123/53630.m3u8
+
+#EXTINF:0,PAN | PAN TVMAX
+http://144.217.64.126:8080/live/coke123/coke123/53614.m3u8
+
+#EXTINF:0,PER | ATV PERU
+http://144.217.64.126:8080/live/coke123/coke123/53604.m3u8
+
+#EXTINF:0,LA: PE_CMD
+http://144.217.64.126:8080/live/coke123/coke123/53615.m3u8
+
+#EXTINF:0,PER | LATINA PERU
+http://144.217.64.126:8080/live/coke123/coke123/53606.m3u8
+
+#EXTINF:0,PER | PANAMERICANATV
+http://144.217.64.126:8080/live/coke123/coke123/53607.m3u8
+
+#EXTINF:0,PER | PERU MAGICO
+http://144.217.64.126:8080/live/coke123/coke123/53608.m3u8
+
+#EXTINF:0,PER | PLUS TV PERU
+http://144.217.64.126:8080/live/coke123/coke123/53609.m3u8
+
+#EXTINF:0,PER | TNP PERU
+http://144.217.64.126:8080/live/coke123/coke123/53610.m3u8
+
+#EXTINF:0,RITMOZONA LATINO HD
+http://144.217.64.126:8080/live/coke123/coke123/53634.m3u8
+
+#EXTINF:0,TELEPIN ARG LATINO
+http://144.217.64.126:8080/live/coke123/coke123/53629.m3u8
+
+#EXTINF:0,TODO DEPORTES HONDURAS
+http://144.217.64.126:8080/live/coke123/coke123/53602.m3u8
+
+#EXTINF:0,PAN | TV MAX PANAMA
+http://144.217.64.126:8080/live/coke123/coke123/53628.m3u8
+
+#EXTINF:0,CHI | UCV CHILE
+http://144.217.64.126:8080/live/coke123/coke123/53618.m3u8
+
+#EXTINF:0,CHI |  VTV Chile
+http://144.217.64.126:8080/live/coke123/coke123/53635.m3u8
+
+#EXTINF:0,(NEW) PTV SPORTS
+http://144.217.64.126:8080/live/coke123/coke123/53643.m3u8
+
+#EXTINF:0,(NEW)ASIANET
+http://144.217.64.126:8080/live/coke123/coke123/53646.m3u8
+
+#EXTINF:0,(NEW)ASIANET MOVIES
+http://144.217.64.126:8080/live/coke123/coke123/53644.m3u8
+
+#EXTINF:0,(NEW)ASIANET PLUS
+http://144.217.64.126:8080/live/coke123/coke123/53645.m3u8
+
+#EXTINF:0,(NEW)B4U MOVIES
+http://144.217.64.126:8080/live/coke123/coke123/53649.m3u8
+
+#EXTINF:0,(NEW)B4U MUSIC
+http://144.217.64.126:8080/live/coke123/coke123/53648.m3u8
+
+#EXTINF:0,(NEW)B4U PLUS
+http://144.217.64.126:8080/live/coke123/coke123/53647.m3u8
+
+#EXTINF:0,(NEW)COLORS TV HD
+http://144.217.64.126:8080/live/coke123/coke123/53650.m3u8
+
+#EXTINF:0,(NEW)JAYA MOVIES
+http://144.217.64.126:8080/live/coke123/coke123/53651.m3u8
+
+#EXTINF:0,(NEW)JAYA TV
+http://144.217.64.126:8080/live/coke123/coke123/53653.m3u8
