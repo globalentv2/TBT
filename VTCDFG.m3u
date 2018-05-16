@@ -6,24 +6,33 @@
 
 #EXTINF:-1 tvg-logo="http://niu.cl/wp-content/uploads/2017/07/logo_niumedia.png" group-title="ENTRETENIMIENTO",NIU MEDIA HD
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w876534093_b1500000_slesp.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="INFANTILES",PAKA PAKA
 http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-pkpk/_definst_/live/stream1.m3u8
+
 #EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/origin/https://locomotiondeculto.files.wordpress.com/2015/06/locomotion-animestation2.png" group-title="INFANTILES",LOCOMOTION
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
 #EXTINF:-1,ANIMAX
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Animax2.png" group-title="INFANTILES", ANIME 24/7
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
 #EXTINF:-1,TKE ARUBA
 http://201.229.0.51:1935/Telearuba/telearuba/chunklist_w2100608425.m3u8
+
 #EXTINF:-1 tvg-logo="https://cache.tikilive.com/public/files/shows/146/146728/43867-800x450-FFFFFF.jpg" group-title="CULTURA", SILENCE TV HD
 http://109.236.85.100:8081/sipTV/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://puu.sh/o2sV5/e9d51a4646.png" group-title="NOTICIAS", EFEKTO TV HD
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/o2sV5/e9d51a4646.png" group-title="NOTICIAS", EFEKTO TV HD
 http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="NOTICIAS", MILENIO TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
 #EXTINF:1 tvg-logo="https://yt3.ggpht.com/-47mZmMqii64/AAAAAAAAAAI/AAAAAAAAAAA/tXJ1c3yULV4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NOTICIAS", MVS NOTICIAS
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 #EXTINF:-1,CLASSIQUE TV
@@ -335,7 +344,7 @@ http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1499.ts?token=TxAMVEBeQwMQA
 #EXTINF:-1,COMBATE HD
 http://webcs.in:25461/live/brunozapa@gmail.com/ca0MNmhgAF/854.ts
 
-#EXTINF:-1,--- 2)LISTA VARIADA x GLOBALenTV---
+
 
 #EXTINF:-1,SPORTS
 http://195.154.151.43:7501/live/922g4c110iz3KhT/SQKerS4OYvExilh/388.ts
@@ -589,6 +598,8 @@ http://195.154.151.43:7501/live/922g4c110iz3KhT/SQKerS4OYvExilh/373.ts
 http://195.154.151.43:7501/live/922g4c110iz3KhT/SQKerS4OYvExilh/374.ts
 #EXTINF:-1,TRUE DRAMA
 http://195.154.151.43:7501/live/922g4c110iz3KhT/SQKerS4OYvExilh/375.ts
+
+
 #EXTINF:-1,TUFF TV HD
 http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
 #EXTINF:-1,KTV SPORT KUWAIT HD
@@ -741,6 +752,7 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/475/inde
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1,RED BULL TV HD
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Viasatsport.png" group-title="DEPORTES", VIASAT SPORT
 http://persik.by/stream/2944/263250/10249.m3u8
 #EXTINF:-1 tvg-logo="http://www.cbcsport.tv/upload/img/live.png" group-title="DEPORTES",CBC SPORT
@@ -1000,10 +1012,7 @@ http://142.44.139.228:8000/live/aguadavvmalvin/VkQAHTo83K/875.ts
 #EXTINF:-1,SON POPULAR
 http://142.44.139.228:8000/live/aguadavvmalvin/VkQAHTo83K/873.ts
 
-#EXTINF:-1,---LISTA VARIADA GRACIAS A FRANKO ZEUS---
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nZiunQYZtUA/maxresdefault.jpg",=FRANKO_ZEUS=
-#EXTINF:-1 tvg-logo="https://www.viajejet.com/wp-content/viajes/mapa-de-las-banderas-de-sudamerica.png",=AMERICA_DEL_SUR=
 
 #EXTINF:-1,EVENTOS SUPERLIGA ARGENTINA
 http://miiptvlatino.com:8000/live/BUNI2641582/stozpmaOPw/2485.ts
@@ -1240,7 +1249,7 @@ http://miiptvlatino.com:8000/live/BUNI2641582/stozpmaOPw/675.ts
 #EXTINF:-1,TRU TV
 http://miiptvlatino.com:8000/live/BUNI2641582/stozpmaOPw/804.ts
 
-#EXTINF:-1,--- 3) LISTA VARIADA TOMADA x GLOBALenTV---
+
 
 #EXTINF:-1,A&E HD
 http://webcs.in:25461/live/brunozapa@gmail.com/ca0MNmhgAF/688.ts
